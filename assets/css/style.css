@@ -1,0 +1,60 @@
+#conteneur {
+  display:
+  flex;
+  flex-wrap: wrap;
+}
+.colorRed {
+  background-color: red;
+  width: 40%;
+  height: 50px;
+  order 1;
+}
+.colorGreen {
+  background-color: green;
+  width: 30%;
+  height: 50px;
+  order: 2
+
+}
+.colorYellow {
+  background-color: yellow;
+  width: 30%;
+  height: 50px;
+  order: 3;
+}
+.colorBlue {
+  background-color: blue;
+  width: 30%;
+  height: 50px;
+  order: 4;
+}
+.colorOrange {
+  background-color: orange;
+  width: 35%;
+  height: 50px;
+  order: 5;
+}
+.colorBlack {
+  background-color: black;
+  width: 35%;
+  height: 50px;
+  order: 6;
+}
+.colorPurple {
+  background-color: purple;
+  width: 35%;
+  height: 50px;
+  order: 7;
+}
+.colorPink {
+  background-color: pink;
+  width: 25%;
+  height: 50px;
+  order: 8;
+}
+.colorBrown {
+  background-color: brown;
+  width: 40%;
+  height: 50px;
+  order: 9;
+}
